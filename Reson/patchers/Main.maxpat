@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 657.0, 79.0, 1612.0, 908.0 ],
+		"rect" : [ 34.0, 79.0, 1612.0, 908.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -200,9 +200,7 @@
 					"maxclass" : "scope~",
 					"numinlets" : 2,
 					"numoutlets" : 0,
-					"patching_rect" : [ 683.5, 601.74691328590302, 260.5, 121.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 615.500000238418579, 72.336783960323942, 94.725525524881164, 92.0 ]
+					"patching_rect" : [ 683.5, 601.74691328590302, 260.5, 121.0 ]
 				}
 
 			}
@@ -492,7 +490,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 748.202433307965634, 321.413579853228612, 73.99999988079071, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 518.409677091572007, 133.666666567325592, 73.99999988079071, 18.0 ],
+					"presentation_rect" : [ 564.202433307965634, 129.666666567325592, 73.99999988079071, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -542,7 +540,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 751.437012632687924, 341.413579853228612, 74.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 521.644256416294297, 153.666666567325592, 74.0, 18.0 ],
+					"presentation_rect" : [ 567.437012632687924, 149.666666567325592, 74.0, 18.0 ],
 					"text" : "POSITION",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -563,7 +561,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 757.999999940395355, 266.74691328590302, 56.0, 56.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 528.207243724001728, 79.0, 56.0, 56.0 ],
+					"presentation_rect" : [ 573.999999940395355, 75.0, 56.0, 56.0 ],
 					"range" : 1024,
 					"ratio" : 1,
 					"trackhorizontal" : 1,
@@ -584,7 +582,7 @@
 					"patching_rect" : [ 738.437012632687924, 248.083697246226961, 100.0, 100.0 ],
 					"pic" : "bg_02.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 508.644256416294297, 60.336783960323942, 100.0, 100.0 ]
+					"presentation_rect" : [ 554.437012632687924, 56.336783960323942, 100.0, 100.0 ]
 				}
 
 			}
@@ -786,7 +784,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 634.202433307965634, 321.413579853228612, 73.99999988079071, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 390.360554059346441, 137.0, 73.99999988079071, 18.0 ],
+					"presentation_rect" : [ 436.153310275740068, 133.0, 73.99999988079071, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -836,7 +834,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 637.437012632687924, 341.413579853228612, 74.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 392.797566692034366, 153.666666567325592, 74.0, 18.0 ],
+					"presentation_rect" : [ 438.590322908427993, 149.666666567325592, 74.0, 18.0 ],
 					"text" : "DAMP",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -857,7 +855,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 643.999999940395355, 266.74691328590302, 56.0, 56.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 399.360553999741796, 79.0, 56.0, 56.0 ],
+					"presentation_rect" : [ 445.153310216135424, 75.0, 56.0, 56.0 ],
 					"range" : 1024,
 					"ratio" : 1,
 					"trackhorizontal" : 1,
@@ -878,7 +876,7 @@
 					"patching_rect" : [ 624.437012632687924, 248.083697246226961, 100.0, 100.0 ],
 					"pic" : "bg_02.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 379.797566692034366, 60.336783960323942, 100.0, 100.0 ]
+					"presentation_rect" : [ 425.590322908427993, 56.336783960323942, 100.0, 100.0 ]
 				}
 
 			}
@@ -1080,7 +1078,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 507.202433307965634, 321.413579853228612, 73.99999988079071, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 262.000000059604645, 133.666666567325592, 73.99999988079071, 18.0 ],
+					"presentation_rect" : [ 307.792756275998272, 129.666666567325592, 73.99999988079071, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -1130,7 +1128,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 510.437012632687924, 341.413579853228612, 74.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 265.234579384326935, 153.666666567325592, 74.0, 18.0 ],
+					"presentation_rect" : [ 311.027335600720562, 149.666666567325592, 74.0, 18.0 ],
 					"text" : "BRIGHTNESS",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -1151,7 +1149,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 516.999999940395355, 266.74691328590302, 56.0, 56.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 271.797566692034366, 79.0, 56.0, 56.0 ],
+					"presentation_rect" : [ 317.590322908427993, 75.0, 56.0, 56.0 ],
 					"range" : 1024,
 					"ratio" : 1,
 					"trackhorizontal" : 1,
@@ -1172,7 +1170,7 @@
 					"patching_rect" : [ 497.437012632687924, 248.083697246226961, 100.0, 100.0 ],
 					"pic" : "bg_02.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 252.234579384326935, 60.336783960323942, 100.0, 100.0 ]
+					"presentation_rect" : [ 298.027335600720562, 56.336783960323942, 100.0, 100.0 ]
 				}
 
 			}
@@ -1800,7 +1798,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 626.000000059604645, 130.413579853228612, 73.99999988079071, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 132.562987367312076, 133.666666567325592, 73.99999988079071, 18.0 ],
+					"presentation_rect" : [ 178.355743583705703, 129.666666567325592, 73.99999988079071, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -1850,7 +1848,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 629.234579384326935, 150.413579853228612, 74.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 135.797566692034366, 153.666666567325592, 74.0, 18.0 ],
+					"presentation_rect" : [ 181.590322908427993, 149.666666567325592, 74.0, 18.0 ],
 					"text" : "STRUCTURE",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -1871,7 +1869,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 635.797566692034366, 75.74691328590302, 56.0, 56.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 142.360553999741796, 79.0, 56.0, 56.0 ],
+					"presentation_rect" : [ 188.153310216135424, 75.0, 56.0, 56.0 ],
 					"range" : 1024,
 					"ratio" : 1,
 					"trackhorizontal" : 1,
@@ -1892,7 +1890,7 @@
 					"patching_rect" : [ 616.234579384326935, 57.083697246226961, 100.0, 100.0 ],
 					"pic" : "bg_02.png",
 					"presentation" : 1,
-					"presentation_rect" : [ 122.797566692034366, 60.336783960323942, 100.0, 100.0 ]
+					"presentation_rect" : [ 168.590322908427993, 56.336783960323942, 100.0, 100.0 ]
 				}
 
 			}
@@ -2094,7 +2092,7 @@
 					"parameter_enable" : 1,
 					"patching_rect" : [ 499.000000059604645, 130.413579853228612, 73.99999988079071, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 5.562987367312076, 133.666666567325592, 73.99999988079071, 18.0 ],
+					"presentation_rect" : [ 51.355743583705703, 129.666666567325592, 73.99999988079071, 18.0 ],
 					"saved_attribute_attributes" : 					{
 						"activebgcolor" : 						{
 							"expression" : ""
@@ -2144,7 +2142,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 502.234579384326935, 150.413579853228612, 74.0, 18.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 8.797566692034366, 153.666666567325592, 74.0, 18.0 ],
+					"presentation_rect" : [ 54.590322908427993, 149.666666567325592, 74.0, 18.0 ],
 					"text" : "FREQUENCY",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 1
@@ -2165,7 +2163,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 508.797566692034366, 75.74691328590302, 56.0, 56.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 15.360553999741796, 79.0, 56.0, 56.0 ],
+					"presentation_rect" : [ 61.153310216135424, 75.0, 56.0, 56.0 ],
 					"range" : 1024,
 					"ratio" : 1,
 					"trackhorizontal" : 1,
@@ -2200,7 +2198,7 @@
 					"patching_rect" : [ 489.234579384326935, 57.083697246226961, 100.0, 100.0 ],
 					"pic" : "bg_02.png",
 					"presentation" : 1,
-					"presentation_rect" : [ -4.202433307965634, 60.336783960323942, 100.0, 100.0 ]
+					"presentation_rect" : [ 41.590322908427993, 56.336783960323942, 100.0, 100.0 ]
 				}
 
 			}
@@ -3247,42 +3245,42 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "bg_02.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "panel_00.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "white_knob.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "model.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "poly.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "switch7.png",
-				"bootpath" : "~/Documents/Max 8/Projects/Reson/media",
+				"bootpath" : "~/Documents/GitHub/Mode-Rings/Reson/media",
 				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
