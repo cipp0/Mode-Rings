@@ -4,8 +4,11 @@ Resonator filters bank
 ![plot](/img.png)
 
 Based on vb.mi.rngs~
+
 a clone of mutable instruments' 'RINGS' module
+
 by Volker Böhm, https://vboehm.net
+
 UI by cipp0
 
 
